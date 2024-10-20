@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project was inspired by [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913), a NeurIPS 2018 paper. The paper describes a method for visualizing loss landscapes of neural networks by applying normalization to specific model parameters, and then plotting loss values along 2 randomly selected directions during training. This project directly applies the  paper by rendering these loss landscapes using the Snap Spectacles. 
+This project was inspired by [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913), a NeurIPS 2018 paper. The paper describes a method for visualizing loss landscapes of neural networks by applying normalization to specific model parameters, and then plotting loss values along 2 randomly selected directions during training. This project directly applies the  paper by rendering these loss landscapes in real life using the Snap Spectacles. 
 
-With wearable tech and smart glasses like the Snap Spectacles, we can finally have an immersive experience in AR to better visualize the shapes of these 3D surface plots, and have visibility into more fine-grain or precise details. The differences that the paper finds when comparing how different model architectures lead to different loss surfaces and optimization trajectories can be clearly seen when viewing through the Snap Spectacles.
+With wearable tech and smart glasses like the Snap Spectacles, we can finally have an immersive experience in AR to better visualize the shapes of these 3D surface plots, and have visibility into more fine-grain or precise details. The lens can be downloaded [here](https://www.snapchat.com/lens/724f44537ca84400acef41af5ae386b3).
 
 ## Development
 
