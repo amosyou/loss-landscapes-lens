@@ -1,0 +1,52 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 46
+    values:
+      - Material.mat
+      - MaterialParams.png
+      - PBR.mat
+      - ScreenTexture.screenTexture
+      - Surface Detection.lspkg
+      - Surface Detection.lspkg/Audio
+      - Surface Detection.lspkg/Audio/CalibrationComplete.mp3
+      - "Surface Detection.lspkg/Example [DELETE ME]"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Example Script [EDIT].ts"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Materials"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Materials/Uber PBR.mat"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Meshes"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Meshes/Box.mesh"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Shaders"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Shaders/uber_pbr.ss_graph"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Textures"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Textures/Base.png"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Textures/Normal.png"
+      - Surface Detection.lspkg/Materials
+      - Surface Detection.lspkg/Materials/CalibrationMat.mat
+      - Surface Detection.lspkg/Meshes
+      - Surface Detection.lspkg/Meshes/Unit Plane.mesh
+      - Surface Detection.lspkg/Scripts
+      - Surface Detection.lspkg/Scripts/CircleAnimation.ts
+      - Surface Detection.lspkg/Scripts/SurfaceDetection.ts
+      - Surface Detection.lspkg/Shaders
+      - Surface Detection.lspkg/Shaders/CalibrationShader.ss_graph
+      - Surface Detection.lspkg/SurfaceDetection__ADD_TO_SCENE.prefab
+      - Surface Detection.lspkg/Textures
+      - Surface Detection.lspkg/Textures/groundIcon.png
+      - Surface Detection.lspkg/package.native
+      - Twist Material
+      - Twist Material/.hidden/Twist.ss_graph
+      - Twist Material/Twist.mat
+      - Uber PBR.mat
+      - pbr.ss_graph
+      - resnet.obj
+      - resnet.obj/.hidden
+      - resnet.obj/.hidden/mtl1
+      - resnet.obj/.hidden/white
+      - resnet.obj/Materials
+      - resnet.obj/Materials/mtl1
+      - resnet.obj/Meshes
+      - resnet.obj/Meshes/grp1
+      - resnet.obj/resnet
+      - uber_pbr.ss_graph
+  options: 4

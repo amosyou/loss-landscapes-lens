@@ -1,0 +1,5 @@
+ExternalSources:
+  type: "std::map<Es::Uuid, Es::Path>"
+  value:
+    - fcbc559e-cc03-4926-bcdc-cd9409f0e903: /Users/famousamoscookie/loss-landscape/resnet.obj
+  options: 4
